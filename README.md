@@ -6,6 +6,10 @@ Welcome to the Playtime Bot repository! Playtime Bot is a Discord bot whose desi
 
 If you are unfamiliar with deploying a Discord bot on a server, check out [FILL IN] for information. 
 
+****
+**THIS REPOSITORY IS CURRENTLY A WORK IN PROGRESS**
+****
+
 ## How to use the bot
 
 Playtime bot uses several commands:
