@@ -1,4 +1,7 @@
 ****
+## DO NOT USE THIS BOT!
+**For some reason this bot is sending out spam at random times, even when inactive. I am working on figuring out why**
+****
 **THIS REPOSITORY IS CURRENTLY A WORK IN PROGRESS! IF YOU HAPPEN TO FIND THIS REPO BEFORE THIS WAS DELETED, KNOW THAT THERE ARE PLENTY OF BUGS IN THE CODE AND THAT YOU SHOULDN'T USE THIS BOT AS OF YET**
 ****
 
