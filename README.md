@@ -1,3 +1,8 @@
+****
+**THIS REPOSITORY IS CURRENTLY A WORK IN PROGRESS**
+****
+
+
 # Playtime Bot
 
 
@@ -5,10 +10,6 @@
 Welcome to the Playtime Bot repository! Playtime Bot is a Discord bot whose designed to receive the times in which each player in the guild can play within the day it is activated and then return the times in which each user can play. This way people don't need to fumble around with figuring out when everyone can play, Playtime Bot does it for you!
 
 If you are unfamiliar with deploying a Discord bot on a server, check out [FILL IN] for information. 
-
-****
-**THIS REPOSITORY IS CURRENTLY A WORK IN PROGRESS**
-****
 
 ## How to use the bot
 
