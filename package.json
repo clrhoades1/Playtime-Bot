@@ -1,0 +1,17 @@
+{
+    "name": "Playtime-bot",
+    "version": "1.0.0",
+    "description": "This Discord bot gets what time people in a server are available to play and then reports back a play time.",
+    "main": "bot.js",
+    "author": "Connor Rhoades",
+    "dependencies": {
+        "dblapi.js": "^2.3.0",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^11.5.1",
+        "winston": "^3.2.1"
+    },
+    "devDependencies": {
+        "bufferutil": "^4.0.1",
+        "opusscript": "0.0.6"
+    }
+}
